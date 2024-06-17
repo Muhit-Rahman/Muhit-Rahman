@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Muhit-Rahman
-- 👀 I’m interested in .programming..
+- 👀 I’m interested in: Programming
 - 🌱 I’m currently learning .Javascript..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me . moziburpanna@gmail.com..
